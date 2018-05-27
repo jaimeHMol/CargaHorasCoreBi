@@ -15,8 +15,9 @@ Características:
 * Valida y evita cargar días no hábiles (fines de semana).
 * Realiza la validación y carga de días feriados de Argentina, usando la API: https://pjnovas.gitbooks.io/no-laborables/
 
+Se puede descargar la versión portable y lista para ejecutar en: https://www.dropbox.com/s/8ihkrihreftzttl/CargaHorasCorebi_1.0_Windows_%28Portable%29.zip?dl=0
 
-
+_________________________________________________________
 Desarrollado por @kingSelta
 usando Python 3.6.3.0
 con los módulos:

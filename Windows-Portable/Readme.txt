@@ -2,6 +2,8 @@ CargaHorasCoreBi v1.0.0.0
 Open Source
 Mayo 2018
 
+PARA EJECUTAR: Simplemente dar doble click el archivo: GUICargaHorasCorebi.bat
+
 Desarrollado por @kingSelta
 usando Python 3.6.3.0
 

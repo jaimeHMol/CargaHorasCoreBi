@@ -1,0 +1,177 @@
+<config>
+	<urlLogin>http://wsscorebi.com.ar:8080/imputacionhoras/Login.aspx</urlLogin>
+	<urlImputacion>http://wsscorebi.com.ar:8080/imputacionhoras/ImputacionHoras.aspx</urlImputacion>
+	<urlApiFeriados>http://nolaborables.com.ar/api/v2/feriados/</urlApiFeriados>
+	<cliente>
+		<nombre>CoreBi</nombre>
+		<codigo>1</codigo>
+		<proyecto>
+			<nombre>BigData</nombre>
+			<codigo>462</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Calidad</nombre>
+			<codigo>64</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Capacitacion</nombre>
+			<codigo>1</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Comercial</nombre>
+			<codigo>168</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Entrevista</nombre>
+			<codigo>63</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Evaluación de Desempeño</nombre>
+			<codigo>198</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Evento  Fin de año</nombre>
+			<codigo>140</codigo>     
+		</proyecto>                  
+		<proyecto>                   
+			<nombre>Feriado</nombre> 
+			<codigo>105</codigo>     
+		</proyecto>                  
+		<proyecto>                   
+			<nombre>General</nombre> 
+			<codigo>41</codigo>      
+		</proyecto>                  
+		<proyecto>                   
+			<nombre>I+D</nombre>     
+			<codigo>78</codigo>      
+		</proyecto>                  
+		<proyecto>
+			<nombre>IT</nombre>
+			<codigo>19</codigo>
+		</proyecto>			
+		<proyecto>
+			<nombre>Licencia por Enfermedad</nombre>
+			<codigo>2</codigo>
+		</proyecto>           
+		<proyecto>            
+			<nombre>Licencia x Examen</nombre>
+			<codigo>100</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Licencia x Vacaciones</nombre>
+			<codigo>101</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Medico / Tramites</nombre>
+			<codigo>65</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>PMO</nombre>
+			<codigo>185</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Reunión</nombre>
+			<codigo>61</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Team Building</nombre>
+			<codigo>104</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Viajes</nombre>
+			<codigo>59</codigo>
+		</proyecto>			
+	</cliente>
+	<cliente>
+		<nombre>Molinos</nombre>
+		<codigo>28</codigo>
+		<proyecto>
+			<nombre>Assessment BI</nombre>
+			<codigo>84</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Capacitacion</nombre>
+			<codigo>201</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Data Mining</nombre>
+			<codigo>317</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>DW Modelo Comercial</nombre>
+			<codigo>192</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Evolutivos</nombre>
+			<codigo>433</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Guardia</nombre>
+			<codigo>355</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Proyecto Supply</nombre>
+			<codigo>512</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Soporte BI</nombre>
+			<codigo>295</codigo>
+		</proyecto>
+		<proyecto>
+			<nombre>Workshop BO</nombre>
+			<codigo>190</codigo>
+		</proyecto>
+	</cliente>	
+	<cliente>
+		<nombre>Link</nombre>
+		<codigo>68</codigo>
+		<proyecto>
+			<nombre>SIGMA - Tablero de Mando</nombre>
+			<codigo>478</codigo>
+		</proyecto>
+	</cliente>	
+	<etapa>
+		<nombre>Analisis</nombre>
+		<codigo>1</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Desarrollo</nombre>
+		<codigo>8</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Diseño</nombre>
+		<codigo>2</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Estimación</nombre>
+		<codigo>10</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Gestión</nombre>
+		<codigo>11</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Implementacion</nombre>
+		<codigo>3</codigo>
+	</etapa>
+	<etapa>
+		<nombre>N/A</nombre>
+		<codigo>6</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Relevamiento</nombre>
+		<codigo>7</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Reporting</nombre>
+		<codigo>4</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Soporte</nombre>
+		<codigo>9</codigo>
+	</etapa>
+	<etapa>
+		<nombre>Testing</nombre>
+		<codigo>5</codigo>
+	</etapa>
+</config>

@@ -16,6 +16,7 @@ Características:
 * Realiza la validación y carga de días feriados de Argentina, usando la API: https://pjnovas.gitbooks.io/no-laborables/
 
 
+
 Desarrollado por @kingSelta
 usando Python 3.6.3.0
 con los módulos:

@@ -18,13 +18,13 @@ Repositorio que contiene el código fuente en Python de la aplicación CargaHora
 Se puede descargar la versión portable y lista para ejecutar [aquí](https://www.dropbox.com/s/8ihkrihreftzttl/CargaHorasCorebi_1.0_Windows_%28Portable%29.zip?dl=0)
   
   ## Screenshots:
-  ### Login
+  ### Interfaz  
+  ![Interfaz](https://user-images.githubusercontent.com/28209920/62914349-5dd40280-bd66-11e9-80fc-45a5d4181b41.png)
   
-  ### Carga de horas
+  ### About  
+  ![About](https://user-images.githubusercontent.com/28209920/62914348-5dd40280-bd66-11e9-8a6a-3f8261d1db8c.png)
   
-  ### Resultado final
   
-
 _________________________________________________________
 Desarrollado por @jaimeHMol
 usando Python 3.6.3.0

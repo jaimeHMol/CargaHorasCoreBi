@@ -1,10 +1,6 @@
 # CargaHorasCoreBi
 Repositorio que contiene el código fuente en Python de la aplicación CargaHorasCoreBi . 
   
-  CargaHorasCoreBi v1.0.0.0
-  Open Source
-  Mayo 2018
-  
   Programa que automatiza la carga de horas trabajadas en el sistema de horas que la empresa tiene para tal fin, buscando hacer más amable y menos aburrida la vida de los empleados :)
   
   ## Características:
@@ -26,8 +22,10 @@ Se puede descargar la versión portable y lista para ejecutar [aquí](https://ww
   
   
 _________________________________________________________
-Desarrollado por @jaimeHMol
-usando Python 3.6.3.0
+CargaHorasCoreBi v1.0.0.0  
+Software Open Source desarrollado por @jaimeHMol  
+en Mayo 2018  
+usando Python 3.6.3.0  
 con los módulos:  
   * requests	2.18.4
   * selenium	3.11.0

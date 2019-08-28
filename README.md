@@ -15,10 +15,10 @@ Se puede descargar la versión portable y lista para ejecutar [aquí](https://ww
   
   ## Screenshots:
   ### Interfaz  
-  ![Interfaz](https://user-images.githubusercontent.com/28209920/62914349-5dd40280-bd66-11e9-80fc-45a5d4181b41.png)
+  ![Interfaz](https://user-images.githubusercontent.com/28209920/63824566-015c1000-c92e-11e9-8c66-cc4f1a115122.png)
   
   ### About  
-  ![About](https://user-images.githubusercontent.com/28209920/62914348-5dd40280-bd66-11e9-8a6a-3f8261d1db8c.png)
+  ![About](https://user-images.githubusercontent.com/28209920/63824601-1c2e8480-c92e-11e9-965f-1ad3746b587e.png)
   
   
 _________________________________________________________
